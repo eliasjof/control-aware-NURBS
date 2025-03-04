@@ -36,9 +36,12 @@ The folder `videos/` contains the following video demonstrations:
 
 If you use any material from this repository, please cite the paper:
 
-
+Freitas, Elias J. R. et al. Deliberative control-aware motion planning for kinematic-constrained UAVs in a dynamic environment. In: 2025 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2025.
 
 ## Contact
 
 For any questions or further information, please contact [Elias J R Freitas] at [Email].
+
+## Info
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eliasjof/control-aware-NURBS&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/eliasjof/control-aware-NURBS)
 
